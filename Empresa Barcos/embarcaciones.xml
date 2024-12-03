@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE barcos SYSTEM "barcos.dtd">
+<barcos>
+	<velero>
+		<matricula>N10</matricula>
+		<eslora>5.0</eslora>
+		<manga>3.0</manga>
+		<conpatron>SI</conpatron>
+		<alquilado>NO</alquilado>
+		<numeromastiles>1</numeromastiles>
+		<superficievela>3.0</superficievela>
+	</velero>
+	<lancha>
+		<matricula>Z10</matricula>
+		<eslora>6.0</eslora>
+		<manga>3.0</manga>
+		<conpatron>SI</conpatron>
+		<alquilado>NO</alquilado>
+		<potencia>100.0</potencia>
+	</lancha>
+	<velero>
+		<matricula>A10</matricula>
+		<eslora>10.0</eslora>
+		<manga>3.0</manga>
+		<conpatron>SI</conpatron>
+		<alquilado>NO</alquilado>
+		<numeromastiles>2</numeromastiles>
+		<superficievela>6.0</superficievela>
+	</velero>
+	<lancha>
+		<matricula>J10</matricula>
+		<eslora>8.0</eslora>
+		<manga>2.0</manga>
+		<conpatron>SI</conpatron>
+		<alquilado>NO</alquilado>
+		<potencia>150.0</potencia>
+	</lancha>
+</barcos>

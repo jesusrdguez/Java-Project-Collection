@@ -1,0 +1,11 @@
+<!ELEMENT barcos (lancha | velero)*>
+<!ELEMENT lancha (matricula, eslora, manga, conpatron, alquilado, potencia)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT eslora (#PCDATA)>
+<!ELEMENT manga (#PCDATA)>
+<!ELEMENT conpatron (#PCDATA)>
+<!ELEMENT alquilado (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT velero (matricula, eslora, manga, conpatron, alquilado, numeromastiles, superficievela)>
+<!ELEMENT numeromastiles (#PCDATA)>
+<!ELEMENT superficievela (#PCDATA)>
