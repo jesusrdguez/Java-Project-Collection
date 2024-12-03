@@ -1,0 +1,10 @@
+Marta-01;02/06/70;P5;Cádiz
+Marta-02;03/09/75;P5;Huelva
+Marta-03;14/12/80;P5;Jaén
+Marta-04;25/07/69;P5;Sevilla
+Marta-05;11/02/91;P5;Granada
+Marta-06;02/06/70;P5;Cácerez
+Marta-07;03/09/75;P5;Madrid
+Marta-08;14/12/80;P5;León
+Marta-09;25/07/69;P5;Salamanca
+Marta-10;11/02/91;P5;Oviedo

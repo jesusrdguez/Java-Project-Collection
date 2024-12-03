@@ -1,0 +1,10 @@
+Ana-01;02/06/70;P4;Cádiz
+Ana-02;03/09/75;P4;Huelva
+Ana-03;14/12/80;P4;Jaén
+Ana-04;25/07/69;P4;Sevilla
+Ana-05;11/02/91;P4;Granada
+Ana-06;02/06/70;P4;Cácerez
+Ana-07;03/09/75;P4;Madrid
+Ana-08;14/12/80;P4;León
+Ana-09;25/07/69;P4;Salamanca
+Ana-10;11/02/91;P4;Oviedo

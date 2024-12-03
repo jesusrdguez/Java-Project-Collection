@@ -1,0 +1,10 @@
+Juanito-01;02/06/70;P3;Cádiz
+Juanito-02;03/09/75;P3;Huelva
+Juanito-03;14/12/80;P3;Jaén
+Juanito-04;25/07/69;P3;Sevilla
+Juanito-05;11/02/91;P3;Granada
+Juanito-06;02/06/70;P3;Cácerez
+Juanito-07;03/09/75;P3;Madrid
+Juanito-08;14/12/80;P3;León
+Juanito-09;25/07/69;P3;Salamanca
+Juanito-10;11/02/91;P3;Oviedo

@@ -1,0 +1,10 @@
+Paco-01;02/06/70;P1;Cádiz
+Paco-02;03/09/75;P1;Huelva
+Paco-03;14/12/80;P1;Jaén
+Paco-04;25/07/69;P1;Sevilla
+Paco-05;11/02/91;P1;Granada
+Paco-06;02/06/70;P1;Cácerez
+Paco-07;03/09/75;P1;Madrid
+Paco-08;14/12/80;P1;León
+Paco-09;25/07/69;P1;Salamanca
+Paco-10;11/02/91;P1;Oviedo

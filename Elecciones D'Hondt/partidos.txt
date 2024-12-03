@@ -1,0 +1,5 @@
+P1;Partido 1;10000;0
+P2;Partido 2;28000;0
+P3;Partido 3;3075;0
+P4;Partido 4;8900;0
+P5;Partido 5;15000;0

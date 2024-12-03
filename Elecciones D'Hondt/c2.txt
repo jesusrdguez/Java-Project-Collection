@@ -1,0 +1,10 @@
+Pedro-01;02/06/70;P2;Cádiz
+Pedro-02;03/09/75;P2;Huelva
+Pedro-03;14/12/80;P2;Jaén
+Pedro-04;25/07/69;P2;Sevilla
+Pedro-05;11/02/91;P2;Granada
+Pedro-06;02/06/70;P2;Cácerez
+Pedro-07;03/09/75;P2;Madrid
+Pedro-08;14/12/80;P2;León
+Pedro-09;25/07/69;P2;Salamanca
+Pedro-10;11/02/91;P2;Oviedo
