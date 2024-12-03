@@ -1,0 +1,12 @@
+T;p100;Jose Maria;15/09/1996;02/06/1965;1234;Informatica;Jefe de Departamento;true
+T;p110;Rosa;15/09/1996;12/03/1975;1000;Ingles;Director;true
+T;p120;Lola;15/09/1990;12/03/1960;1200;Latin;Jefe de Estudios;true
+T;p130;Luis;15/05/1992;12/03/1970;1220;Lengua;-;true
+T;p140;Antonio;1/09/1923;12/03/1977;1300;Matematicas;-;false
+I;i100;Tomas;20/10/2020;20/10/1975;3456;Informatica;-;false
+I;i110;Jorge;19/10/2020;20/1/1985;3100;Informatica;Tutor;false
+I;i120;Ester;12/2/2024;20/11/1985;3120;Ingles;-;true
+L;l100;Paco;10/10/1992;15/09/1963;5678;Ordenanza;mañana
+L;l110;Pepe;15/11/2002;19/07/1985;5100;Ordenanza;tarde
+L;l120;Luisa;25/9/2012;20/08/1990;5200;Administrativo;mañana
+L;l130;Pedro;2/3/2022;31/08/1995;5300;Limpieza;mañana
